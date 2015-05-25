@@ -1,0 +1,8 @@
+# Temporary files.
+.#*
+
+# Log files.
+*.log
+
+# Don't push meteor's local DB and packages - packages are installed by the build server
+meteor-app/.meteor/local
